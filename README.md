@@ -1,4 +1,4 @@
-## Excel-Dashboards-
+## MS-Excel Dashboard-
 This a beginner level Dashboard preparation using MS-Excel. 
  The excel file consists of 4 Sheets namely 
  1. Raw Data Bike buyers
